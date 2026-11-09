@@ -22,4 +22,8 @@ add solution for task 1 task 2 task 3
 add folder topic_05
 add solution for task 1 task 2 task 3
 
+# 09.11.25
+add folder lab_02
+add solution for laboratory work 2 
+
 # TP-KB-252-Daria-Yehorova
