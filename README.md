@@ -33,4 +33,12 @@ add solution for task 1 task 2
 # 11.11.26
 add folder topic_07
 add solution for task 1 task 2 task 3
+
+# 19.11.26
+add folder lab_03
+add solution for laboratory work 3
+
+# 19.11.26
+add folder lab_04
+add solution for  laboratory work 4
 # TP-KB-252-Daria-Yehorova
